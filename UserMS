@@ -1,0 +1,2 @@
+path.uri=http://localhost:8080/infygo/
+spring.datasource.url=jdbc:mysql://localhost/user_details
