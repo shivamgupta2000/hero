@@ -1,0 +1,2 @@
+path.uri=http://localhost:8060/infygo/
+spring.datasource.url=jdbc:mysql://localhost/creditcard_details
