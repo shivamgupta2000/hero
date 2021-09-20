@@ -1,2 +1,3 @@
-spring.application.name=BookingMS
 server.port=8070
+path.uri=http://localhost:8400/infygo/
+spring.datasource.url=jdbc:mysql://localhost/booking_details
